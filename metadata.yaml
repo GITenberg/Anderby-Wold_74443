@@ -1,0 +1,31 @@
+_repo: Anderby-Wold_74443
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holtby, Winifred
+    birthdate: 1898
+    deathdate: 1935
+    gutenberg_agent_id: '54871'
+    url: http://www.gutenberg.org/2009/agents/54871
+    wikipedia: https://en.wikipedia.org/wiki/Winifred_Holtby
+description: ''
+gutenberg_issued: '2024-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74443'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/umn.31951002089060m
+pgterms:marc905: 20190321161840holtby
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Tim Lindell, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bJohn Lane Company, $c1923, reprint 1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Anderby Wold
+url: http://www.gutenberg.org/ebooks/74443
